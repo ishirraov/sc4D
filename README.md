@@ -16,11 +16,11 @@ joint spatiotemporal modeling for elucidating disease mechanisms and nominating 
 
 ## Files
 
-├── Labeled-13-Disease.csv/                # Input data for 13-month disease sample
-├── Labeled-8-Disease.csv/                 # Input data for 8-month disease sample
-├── sc4D_Autoencoder.ipynb/                # Code for autoencoder training
-├── sc4D_Optimal_Transport_Analysis.ipynb/ # Code for optimal transport analysis (trajectory inference)
-├── sc4D_SpatialAnalysis.ipynb/            # Code for spatial analysis + GSEA
-└── README.md
+Labeled-8-Disease.csv (Input data for 8-month disease sample),
+Labeled-13-Disease.csv (Input data for 13-month disease sample),
+sc4D_Autoencoder.ipynb (Code for autoencoder training),
+sc4D_Optimal_Transport_Analysis.ipynb (Code for optimal transport and trajectory inference),
+sc4D_SpatialAnalysis.ipynb (Code for spatial analysis and GSEA),
+README.md (Project overview and usage instructions)
 
 
