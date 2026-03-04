@@ -17,4 +17,8 @@ sc4D_Optimal_Transport_Analysis.ipynb (Code for optimal transport and trajectory
 sc4D_SpatialAnalysis.ipynb (Code for spatial analysis and GSEA),
 README.md (Project overview and usage instructions)
 
+## Instructions
+
+All code can be run for free on Google Colab by downloading the .ipynb files. Input data for the 8 and 13 month samples (Labeled-8-disease.csv and Labeled-13-Disease.csv) with preprocessing complete can be found in this repository.
+
 
